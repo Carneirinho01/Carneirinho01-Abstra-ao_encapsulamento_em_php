@@ -1,0 +1,1 @@
+# Carneirinho01-Abstra-ao_encapsulamento_em_php
