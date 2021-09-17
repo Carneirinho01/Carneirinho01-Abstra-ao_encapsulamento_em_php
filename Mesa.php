@@ -37,7 +37,7 @@ class Mesa
 
     private function setTipo($tipo): bool
     {
-        if(is_string($tipo))
+        if(is_string($tipo)) 
         {
             $this->tipo = $tipo;
             return true;
